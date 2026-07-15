@@ -16,7 +16,7 @@ Over the last 20+ years, I’ve designed developer platforms, enterprise applica
 
 🚧 Currently building
 
-Founder of MomentLabs, an AI-powered platform reinventing how people capture and relive life’s biggest events.
+Founder of [MomentLabs](https://momentlabs.fr), an AI-powered platform helping people plan, organize, manage and relive life’s most meaningful events, such as weddings, birthdays and celebrations.
 
 I enjoy building products from scratch, designing scalable architectures, shipping fast and automating everything that can be automated.
 
