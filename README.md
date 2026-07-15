@@ -1,34 +1,33 @@
 👋 Hi, I’m Julien (aka @materazu)
 
-Senior Full-Stack Software Engineer with 20+ years of experience designing and building modern web applications, developer platforms and scalable products.
+I build modern web and mobile products with TypeScript.
 
-I specialize in the JavaScript / TypeScript ecosystem, with a strong focus on software architecture, clean code, performance and developer experience.
+Over the last 20+ years, I’ve designed developer platforms, enterprise applications, AI-powered products and production systems used by thousands of users. More recently, I’ve been shipping cross-platform mobile apps and SaaS products from idea to the App Store and Google Play in just a few weeks.
 
-🚀 Tech stack
+🚀 Current stack
 
-* TypeScript / JavaScript
-* Angular • React • React Native
-* Node.js • NestJS
-* PostgreSQL • MongoDB
-* AWS • Docker • Terraform
-* Nx Monorepo • GitLab CI/CD
+* TypeScript everywhere
+* React • Next.js • React Native • Capacitor
+* Node.js • NestJS • Payload CMS
+* PostgreSQL
+* Turborepo
+* GitHub • GitHub Actions
+* AI-assisted development
 
 🚧 Currently building
 
-Founder of MomentLabs, where I’m building AI-powered applications and tools that simplify event organization and create memorable digital experiences.
+Founder of MomentLabs, an AI-powered platform reinventing how people capture and relive life’s biggest events.
 
-I enjoy building products from scratch, leading technical teams, mentoring developers and transforming ambitious ideas into production-ready software.
+I enjoy building products from scratch, designing scalable architectures, shipping fast and automating everything that can be automated.
 
-🤝 Open to
+💡 Things I like
 
-* Freelance consulting
-* Technical leadership
-* Software architecture
-* Greenfield products
-* AI-powered applications
-* Open source collaborations
-
-I’m always interested in projects that solve real-world problems through thoughtful engineering.
+* Product Engineering
+* AI & Agentic Development
+* Developer Experience
+* System Design
+* Open Source
+* Performance & Clean Architecture
 
 📫 Contact
 
