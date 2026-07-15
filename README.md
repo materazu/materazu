@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Julien (aka @materazu)
+# 👋 Hi, I'm Julien (aka @materazu / Mowone)
 
 I build modern software products with TypeScript.
 
