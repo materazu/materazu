@@ -4,6 +4,10 @@ I build modern web and mobile products with TypeScript.
 
 Over the last 20+ years, I’ve designed developer platforms, enterprise applications, AI-powered products and production systems used by thousands of users. More recently, I’ve been shipping cross-platform mobile apps and SaaS products from idea to the App Store and Google Play in just a few weeks.
 
+I believe great software comes from discipline rather than hype.
+
+I automate everything that can be automated, enforce strict quality standards (including 80%+ test coverage), and use AI as a powerful engineering tool - not as a substitute for expertise, craftsmanship or human creativity.
+
 🚀 Current stack
 
 * TypeScript everywhere
