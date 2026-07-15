@@ -1,39 +1,39 @@
-👋 Hi, I’m Julien (aka @materazu)
+# 👋 Hi, I'm Julien (aka @materazu)
 
-I build modern web and mobile products with TypeScript.
+I build modern software products with TypeScript.
 
-Over the last 20+ years, I’ve designed developer platforms, enterprise applications, AI-powered products and production systems used by thousands of users. More recently, I’ve been shipping cross-platform mobile apps and SaaS products from idea to the App Store and Google Play in just a few weeks.
+For more than 20 years, I've been designing scalable platforms, enterprise applications and AI-powered products. More recently, I've been shipping cross-platform mobile apps and SaaS products from idea to the App Store and Google Play in just a few weeks.
 
-I believe great software comes from discipline rather than hype.
+I believe great software comes from discipline—not hype.
 
-I automate everything that can be automated, enforce strict quality standards (including 80%+ test coverage), and use AI as a powerful engineering tool - not as a substitute for expertise, craftsmanship or human creativity.
+I automate everything repetitive, enforce strict quality standards (including a minimum of **80% test coverage** across my products), and use AI as an engineering multiplier—not as a replacement for expertise, craftsmanship or human judgment.
 
-🚀 Current stack
+## 🚀 Current stack
 
-* TypeScript everywhere
-* React • Next.js • React Native • Capacitor
-* Node.js • NestJS • Payload CMS
-* PostgreSQL
-* Turborepo
-* GitHub • GitHub Actions
-* AI-assisted development
+- TypeScript
+- React • Next.js • React Native • Capacitor
+- Node.js • NestJS • Payload CMS
+- PostgreSQL
+- Turborepo
+- Git • GitHub • GitHub Actions
+- AI & Agentic Engineering
 
-🚧 Currently building
+## 🚧 Currently building
 
-Founder of [MomentLabs](https://momentlabs.fr), an AI-powered platform helping people plan, organize, manage and relive life’s most meaningful events, such as weddings, birthdays and celebrations.
+Founder of **[MomentLabs](https://momentlabs.fr)**, an AI-powered platform helping people plan, organize, manage and relive life's most meaningful events—from weddings to any unforgettable celebration.
 
-I enjoy building products from scratch, designing scalable architectures, shipping fast and automating everything that can be automated.
+I enjoy building products from scratch, designing scalable architectures, creating exceptional developer experiences and shipping reliable software.
 
-💡 Things I like
+## 💡 What drives me
 
-* Product Engineering
-* AI & Agentic Development
-* Developer Experience
-* System Design
-* Open Source
-* Performance & Clean Architecture
+- Product Engineering
+- AI & Agentic Development
+- Developer Experience
+- System Design
+- Performance & Clean Architecture
+- Open Source
 
-📫 Contact
+## 📫 Contact
 
 📧 julien@supralab.fr
 
